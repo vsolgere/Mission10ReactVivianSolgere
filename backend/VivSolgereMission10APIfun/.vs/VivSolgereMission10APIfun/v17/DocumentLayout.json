@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\vivsolgeremission10apifun.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:vivsolgeremission10apifun.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|c:\\users\\vivil\\source\\repos\\mission10reactviviansolgere\\backend\\vivsolgeremission10apifun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3BF1526-2540-4D50-ADB9-E031C574FB33}|VivSolgereMission10APIfun.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Models\\BowlingLeagueContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAASwBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:11:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:10:23.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T05:24:08.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlingController.cs",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Controllers\\BowlingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingController.cs",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Controllers\\BowlingController.cs",
+              "RelativeToolTip": "Controllers\\BowlingController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:43:28.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\IBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\IBowlingRepository.cs",
+              "RelativeToolTip": "Models\\IBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:33:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VivSolgereMission10APIfun.csproj",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\VivSolgereMission10APIfun.csproj",
+              "RelativeDocumentMoniker": "VivSolgereMission10APIfun.csproj",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\VivSolgereMission10APIfun.csproj",
+              "RelativeToolTip": "VivSolgereMission10APIfun.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T00:59:35.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\EFBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Models\\EFBowlingRepository.cs",
+              "RelativeToolTip": "Models\\EFBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:35:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T01:24:42.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vivil\\source\\repos\\Mission10ReactVivianSolgere\\backend\\VivSolgereMission10APIfun\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:21:41.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

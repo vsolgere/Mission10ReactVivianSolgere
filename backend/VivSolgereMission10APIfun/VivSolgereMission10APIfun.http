@@ -1,0 +1,6 @@
+@VivSolgereMission10APIfun_HostAddress = http://localhost:5083
+
+GET {{VivSolgereMission10APIfun_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

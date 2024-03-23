@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VivSolgereMission10APIfun.props" />
+</Project>
